@@ -1,4 +1,4 @@
-# Investigacion React{#investigacion}
+# Investigacion React
 
 ---
 1. **¿Que es React.js?**
